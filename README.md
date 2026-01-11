@@ -122,16 +122,4 @@ Current version: **Conceptual / Educational Prototype**
 
 The system prioritizes clarity, extensibility, and architectural correctness over operational deployment.
 
----
 
-## Author
-
-**Shrashti Mittal**
-Aerospace and Space Systems Enthusiast
-Interests: Space Weather, Satellite Operations, AI-enabled Aerospace Systems
-
----
-
-## License
-
-This project is provided for educational and research purposes. Licensing can be added as needed.
